@@ -21,8 +21,3 @@ public class ReorderLevelCheck {
                 count++;
             }
         }
-// Output
-        System.out.println(count);
-        sc.close();
-    }
-}
