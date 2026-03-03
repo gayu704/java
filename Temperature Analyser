@@ -24,13 +24,4 @@ public class WeatherStation {
           sc.close();
     }
 }
-Input: 
-30.5
-32.0
-31.8
-29.6
-28.4
-33.1
-30.0
-Output:
-33.1 28.4 30.77
+ 30.77
