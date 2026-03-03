@@ -14,7 +14,3 @@ public class AgeCheck {
        sc.close();
     }
 }
-Output:
-=== Age Verification System ===
-Enter Your Age: 21
-You are Eligible to Vote ✅
