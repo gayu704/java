@@ -30,10 +30,3 @@ public class MenuExample {
        sc.close();
     }
 }
-Output:
-1. Deposit
-2. Withdraw
-3. Check Balance
-4. Exit
-Enter choice: 3
-Balance: 1000
