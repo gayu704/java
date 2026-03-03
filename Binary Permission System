@@ -12,9 +12,3 @@ public class FilePermissionCheck {
         sc.close();
     }
 }
-Input:
-Enter permission value: 6
-Output:
-Read: Yes
-Write: Yes
-Execute: No
