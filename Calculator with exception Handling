@@ -93,10 +93,3 @@ public class Calculator {
         }
     }
 }
-Output:
-=== Simple Calculator ===
-Enter First Number: 10
-Enter Second Number: 5
-Enter Operator (+ - * /): *
-Result = 50
-Calculator Closed
