@@ -37,9 +37,3 @@ public class Bank {
         sc.close();
     }
 }
-Output:
-Enter PIN: 1234
-Login Successful
-Enter withdraw amount: 2000
-Withdraw Successful
-Remaining Balance: 8000
