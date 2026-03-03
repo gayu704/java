@@ -26,9 +26,3 @@ public class Main {
         sc.close();
     }
 }
-Input:
-Rectangle
-5
-4
-Output:
-20.0
