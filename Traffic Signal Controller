@@ -19,7 +19,3 @@ public class TrafficSignal {
         sc.close();
     }
 }
-Input:
-3
-Output: 
-Go
