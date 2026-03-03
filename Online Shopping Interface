@@ -1,0 +1,37 @@
+import java.util.Scanner;
+public class Shopping {
+     public static void main(String[] args) { 
+         Scanner sc = new Scanner(System.in);
+         String product;
+        int quantity;
+        double price, total;
+        System.out.println("=== Online Shopping System ===");
+        System.out.print("Enter Product Name: ");
+        product = sc.nextLine();
+        System.out.print("Enter Quantity: ");
+        quantity = sc.nextInt();
+        System.out.print("Enter Price per Item: ");
+        price = sc.nextDouble();
+        total = quantity * price;
+        System.out.println("\n--- Bill Details ---");
+        System.out.println("Product  : " + product);
+        System.out.println("Quantity : " + quantity);
+        System.out.println("Price    : " + price);
+        System.out.println("Total    : " + total);
+        System.out.println("\nThank you for Shopping!");
+        sc.close();
+    }
+}
+Output:
+=== Online Shopping System ===
+Enter Product Name: Mobile
+Enter Quantity: 2
+Enter Price per Item: 15000
+
+--- Bill Details ---
+Product  : Mobile
+Quantity : 2
+Price    : 15000
+Total    : 30000
+
+Thank you for Shopping!
