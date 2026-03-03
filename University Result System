@@ -20,7 +20,3 @@ public class Main {
      System.out.println(s.isPass() ? "Pass" : "Fail");
     }
 }
-Input:
-marks = {55, 65, 70, 35}
-Output:
-Fail
