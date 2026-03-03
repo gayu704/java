@@ -27,9 +27,3 @@ public class Main {
         sc.close();
     }
 }
-Input:
-Enter initial balance: 5000
-Enter deposit amount: 2000
-Enter withdrawal amount: 3000
-Output:
-4000
