@@ -18,7 +18,3 @@ public class Main {
         sc.close();
     }
 }
-Input:
-20000
-Output:
-26000
