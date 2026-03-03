@@ -12,7 +12,3 @@ public class Main {
         }
     }
 }
-Input:
-10 5 *
-Output:
-50
