@@ -34,14 +34,3 @@ public class LoginApplet extends Applet implements ActionListener {
         g.drawString(msg, 30, 130);
     }
 }
-Output:
-Applet window display 
--------------------------------
- Username:  [          ]
- Password:  [          ]
-        [ Login ]
- Login Successful / Invalid Login
--------------------------------
-Username: admin
-Password: 123
-Login successful
